@@ -43,17 +43,17 @@ This project is a simple e-commerce web application built using **React** and st
   -vite.svg
  2. src
 
- - assests
-   - fonts
-     zudio.png
+  - assests
+    - fonts
+      zudio.png
 
- - components
+  - components
   
-   - Navbar.js          
-   - ProductList.js     
-   - ProductItem.js    
-   - CartModal.js       
-   - CartItem.js
+    - Navbar.js          
+    - ProductList.js     
+    - ProductItem.js    
+    - CartModal.js       
+    - CartItem.js
      
   - App.jsx
   - index css
