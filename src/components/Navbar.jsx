@@ -2,7 +2,7 @@ import { PropTypes } from 'prop-types'
 const Navbar = ({ cartCount, openCart }) => {
   return (
     <nav className="bg-black p-4 flex justify-around items-center ">
-      <h1 className="text-white text-4xl font-bold tracking-widest font-orbitron">Bowies</h1>
+      <h1 className="text-white text-4xl font-bold tracking-widest font-orbitron">Zudio</h1>
       <div className="relative">
         <button
           onClick={openCart}
