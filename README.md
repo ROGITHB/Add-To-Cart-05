@@ -41,13 +41,13 @@ This project is a simple e-commerce web application built using **React** and st
 ## File Structure
  1.public
      1.vite.svg
- 2. src
+ 2.src
 
    1. assests
-    2. fonts
+      2. fonts
         -zudio.png
 
-     3. components
+       3. components
   
         - Navbar.js          
         - ProductList.js     
