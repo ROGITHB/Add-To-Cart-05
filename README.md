@@ -40,12 +40,12 @@ This project is a simple e-commerce web application built using **React** and st
 
 ## File Structure
  1.public
-  -vite.svg
+    -vite.svg
  2. src
 
   - assests
     - fonts
-      zudio.png
+        zudio.png
 
   - components
   
